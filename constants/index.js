@@ -42,15 +42,15 @@ const cocktailLists = [
 ];
 
 const mockTailLists = [
+{
+	name: "Smoked Apple Mojito",
+	detail: "Apple | Pomegranate | ginger",
+	price: "325",
+ },
  {
 	name: "Orange Passionfruit",
 	detail: "Orange | passion fruit | lime | tonic",
 	price: "295",
- },
- {
-	name: "Smoked Apple Mojito",
-	detail: "Apple | Pomegranate | ginger",
-	price: "325",
  },
  {
 	name: "Cocunut Florida",
