@@ -24,7 +24,7 @@ import gsap from 'gsap'
   return (
     <nav>
         <div>
-            <a href="#home" className='flex items-center gap-2'>
+            <a href="#" className='flex items-center gap-2'>
              <img src="/images/logo.png" alt="logo" />
              <p>Velvet Stir</p>
             </a>
