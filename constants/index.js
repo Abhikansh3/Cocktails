@@ -18,56 +18,49 @@ const navLinks = [
 ];
 
 const cocktailLists = [
- {
-	name: "Chapel Hill Shiraz",
-	country: "AU",
-	detail: "Battle",
-	price: "$10",
+{
+	name: "Negroni",
+	detail:'Gin | Campari | Roso | Bitters',
+	price: "525",
+ },
+{
+	name: "Espresso Martini",
+	detail: "Vodka | Coffee Liquer | Coffee Shot",
+	price: "429",
  },
  {
-	name: "Caten Malbee",
-	country: "AU",
-	detail: "Battle",
-	price: "$49",
+	name: "Pina Colado",
+	detail: "White Rum | Mint leaves | Lemon Chunk",
+	price: "369",
  },
  {
-	name: "Rhino Pale Ale",
-	country: "CA",
-	detail: "750 ml",
-	price: "$20",
+	name: "Tequilla Sunrise",
+	detail: "Tequila | Grenadine Syrup | Orange Juice",
+	price: "349",
  },
- {
-	name: "Irish Guinness",
-	country: "IE",
-	detail: "600 ml",
-	price: "$29",
- },
+
 ];
 
 const mockTailLists = [
  {
-	name: "Tropical Bloom",
-	country: "US",
-	detail: "Battle",
-	price: "$10",
+	name: "Orange Passionfruit",
+	detail: "Orange | passion fruit | lime | tonic",
+	price: "295",
  },
  {
-	name: "Passionfruit Mint",
-	country: "US",
-	detail: "Battle",
-	price: "$49",
+	name: "Smoked Apple Mojito",
+	detail: "Apple | Pomegranate | ginger",
+	price: "325",
  },
  {
-	name: "Citrus Glow",
-	country: "CA",
-	detail: "750 ml",
-	price: "$20",
+	name: "Cocunut Florida",
+	detail: "Coconut Water | Lime | Tonic",
+	price: "275",
  },
- {
-	name: "Lavender Fizz",
-	country: "IE",
-	detail: "600 ml",
-	price: "$29",
+  {
+	name: "Spiced Guava",
+	detail: "Gauva Nector | Spices",
+	price: "190",
  },
 ];
 
